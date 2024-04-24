@@ -25,20 +25,8 @@ Este proyecto es una aplicación Java desarrollada como parte de Oracle One, que
 El proyecto se encuentra en estado de desarrollo. Se están añadiendo nuevas funciones y mejorando la interfaz de usuario.
 
 ## Demostración de funciones y aplicaciones
-*************************************************
-# Bienvenido/a al Conversor de Moneda =]
 
-- Dólar => Peso argentino
-- Peso argentino => Dólar
-- Dólar => Real brasileño
-- Real brasileño => Dólar
-- Dólar => Peso colombiano
-- Peso colombiano => Dólar
-- Salir
-
-**Elija opción válida:**
-
-*************************************************
+![Captura de pantalla 2024-04-23 191938](https://github.com/Danmargiela/ConvertidorAPI/assets/16968289/3e526566-8978-42d8-a3b1-dcb4d24ed970)
 
 ## Acceso al Proyecto
 
