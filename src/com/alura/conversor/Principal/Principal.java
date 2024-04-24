@@ -1,10 +1,8 @@
-// Principal.java
 package com.alura.conversor.Principal;
 
 import com.alura.conversor.Principal.Calcs;
 
-import java.io.*;
-import java.net.HttpURLConnection;
+
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
