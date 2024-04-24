@@ -1,5 +1,5 @@
-# Conversor de Moneda Daniel Sanchez Oracle One
-
+# Conversor de Moneda Currency Helper Daniel Sanchez Oracle One
+![Uploading Currency.png…]()
 
 
 [![Licencia](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -24,20 +24,34 @@ Este proyecto es una aplicación Java desarrollada como parte de Oracle One, que
 El proyecto se encuentra en estado de desarrollo. Se están añadiendo nuevas funciones y mejorando la interfaz de usuario.
 
 ## Demostración de funciones y aplicaciones
+*************************************************
+# Bienvenido/a al Conversor de Moneda =]
 
-(En esta sección, puedes incluir capturas de pantalla, GIFs o videos de tu aplicación en funcionamiento.)
+- Dólar => Peso argentino
+- Peso argentino => Dólar
+- Dólar => Real brasileño
+- Real brasileño => Dólar
+- Dólar => Peso colombiano
+- Peso colombiano => Dólar
+- Salir
+
+**Elija opción válida:**
+
+*************************************************
 
 ## Acceso al Proyecto
 
-Tecnologías utilizadas
-Java 8.0
-Gson para el procesamiento de JSON
-API de conversión de moneda
-Personas Contribuyentes
-Agradecemos a las siguientes personas que han contribuido a este proyecto:
+### Tecnologías utilizadas
+- Java 8.0
+- Gson para el procesamiento de JSON
+- API de conversión de moneda
 
-Daniel Sanchez
-Personas Desarrolladoras del Proyecto
-Daniel Sanchez
-Licencia
-Este proyecto está bajo la Licencia MIT. Consulte el archivo LICENSE para obtener más detalles.
+### Personas Contribuyentes
+- Daniel Sanchez
+
+### Personas Desarrolladoras del Proyecto
+- Daniel Sanchez
+
+### Licencia
+Este proyecto está bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
+
